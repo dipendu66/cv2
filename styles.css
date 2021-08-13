@@ -1,0 +1,196 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+ font-size: 3.625rem;
+ margin: 50px auto 0 auto;
+ font-family: 'Sacramento', cursive;
+ color: #082032;
+}
+h2{
+  font-family:'Merriweather', serif;
+  font-size: 1.8rem;
+  color: #2D2424;
+  font-weight: normal;
+  padding-bottom: 10px;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #0F52BA;
+
+}
+h4{
+  font-family: 'Merriweather', serif;
+}
+p{
+ line-height: 2;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 150px auto;
+}
+a{
+  color: black;
+  margin:10px 20px 30px;
+
+}
+.top-container{
+  background-image: url(https://media.giphy.com/media/9JrkkDoJuU0FbdbUZU/giphy.gif);
+  background-color: skyblue;
+  margin: auto;
+  padding-top: 100px;
+  padding-left:400px;
+  padding-right:400px;
+  padding-bottom:400px;
+
+
+}
+.middle-container{
+
+background-color:#ECEFA4;
+}
+.bottom-container{
+background-color: skyblue;
+padding: 100px 0 20px;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.education-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.hobbies-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.deep-img{
+  width: 12%;
+
+}
+
+.html-img{
+  width: 16%;
+  float: left;
+  margin-right: 30px;
+}
+.css-img{
+  width: 16%;
+  float: left;
+  margin-right: 30px;
+  margin-left: 450px;
+}
+.c-img{
+  width: 16%;
+  float: left;
+  margin-right: 30px;
+}
+.c1-img{
+  width: 16%;
+  float: left;
+  margin-right: 30px;
+  margin-left: 450px;
+}
+.ds-img{
+  width: 16%;
+  float: left;
+  margin-right: 30px;
+}
+.sql-img{
+  width: 16%;
+  float: left;
+  margin-right: 30px;
+  margin-left: 450px;
+}
+.python-img{
+  width: 16%;
+  float: left;
+  margin-right: 30px;
+}
+.mysql-img{
+  width: 16%;
+  float: left;
+  margin-right: 30px;
+  margin-left: 450px;
+}
+
+.college-img{
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
+.school-img{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.football-img{
+  width: 16%;
+  float: left;
+  margin-right: 30px;
+}
+.badminton-img{
+width: 16%;
+float: left;
+margin-right: 30px;
+}
+.videoediting-img{
+width: 16%;
+float: left;
+margin-right: 30px;
+}
+
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contct-message{
+  width: 40%;
+  margin: 40px auto 60px;
+
+}
+.copyright{
+  color: black;
+  font-size: 0.7rem;
+  padding: 20px 0;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family:'Merriweather', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
